@@ -13,14 +13,16 @@
 
 <br>
 
+[<img width = 46% align = left src = './Resources/Buttons/YouTube.webp' >][Videos]
+[<img width = 46% align = right src = './Resources/Buttons/Hackaday.webp' >][Hackaday]
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 [<img width = 100% src = './Resources/Cover.webp' >][#]
 
-<br>
-
-[![Button Videos]][Videos]   
-[![Button Hackaday]][Hackaday]
-
-<br>
 <br>
 
 [<img height = 300 width = 25% align = left  src = './Resources/Empty.svg' >][#]
