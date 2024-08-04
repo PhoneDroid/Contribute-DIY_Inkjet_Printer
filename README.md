@@ -12,6 +12,9 @@
 </pre>
 
 <br>
+
+[<img width = 100% src = './Resources/Cover.webp' >][#]
+
 <br>
 
 [![Button Videos]][Videos]   
