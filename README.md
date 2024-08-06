@@ -113,17 +113,17 @@ After I successfully built some projects I found on the
 <br>
 
 The first working prototype I built had a PMMA printhead  
-and print - if everything was aligned perfectly - with black  
-ink made from thinned out paint.
+and was able to print - if everything was aligned perfectly -  
+with black ink made from thinned out paint.
 
-After that I designed a printhead with internal channels  
-that could flush out the air through the nozzles and be  
-produced with a SLA 3D printer.
+Afterwards I designed a printhead with internal channels  
+that could flush out the air through the inbuilt nozzles and  
+printed it using a SLA 3D printer.
 
 <br>
 
 After some testing and creating single / multi printhead  
-builds I wanted to try printing in four colors, that is CMYK.
+builds I wanted to try printing in four colors, that is $\texttt{\textcolor[RGB]{0,147,211}{𝗖}\textcolor[RGB]{204,0,147}{𝗠}\textcolor[RGB]{255,241,12}{𝗬}\textcolor[RGB]{220,220,220}{𝗞}}$.
 
 While I designed all the required parts, I never got around  
 to assembling or even trying them out until I attempted to  
@@ -132,7 +132,7 @@ write the **[Hackaday]** building instructions.
 <br>
 
 At the time I decided to redesigned the project to fit on  
-an Ender 3, this however also made me realize that the  
+an **[Ender 3]**, this however also made me realize that the  
 machine was far too unreliable.
 
 <br>
@@ -169,6 +169,7 @@ long prints without failing due to design based problems.
 
 
 [Hackaday]: https://hackaday.io/project/167446-diy-inkjet-printer
+[Ender 3]: https://www.creality.com/products/ender-3-3d-printer
 [Forum]: https://reprap.org/forum/read.php?153,52959,page=1
 [Wiki]: https://reprap.org/wiki/Reprappable-inkjet
 
