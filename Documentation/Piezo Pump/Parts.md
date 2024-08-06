@@ -9,7 +9,7 @@
 
 <img
     height = 400
-    src = '../../Resources/Piezo Pump/Images/Parts.jpg'
+    src = './Assets/Parts.webp'
 />
 
 </div>
