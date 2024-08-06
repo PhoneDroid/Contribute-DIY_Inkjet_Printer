@@ -11,14 +11,16 @@
 
 </pre>
 
-<br>
+<br/>
 
-[<img width = 46% align = left src = './Resources/Buttons/YouTube.webp' >][Videos]
-[<img width = 46% align = right src = './Resources/Buttons/Hackaday.webp' >][Hackaday]
+[![Button Videos]][Videos]   
+[![Button Hackaday]][Hackaday]      
+[![Button Frame]][Frame]   
+[![Button Pump]][Pump]   
+[![Button Head]][Head]      
+[![Button Firmware]][Firmware]   
+[![Button GCode]][GCode]
 
-<br/>
-<br/>
-<br/>
 <br/>
 
 [<img width = 100% src = './Resources/Cover.webp' >][#]
@@ -27,23 +29,6 @@
 
 [<img height = 300 width = 25% align = left  src = './Resources/Empty.svg' >][#]
 [<img height = 300 width = 25% align = right src = './Resources/Empty.svg' >][#]
-
-## Hardware
-
-<br>
-
-[![Button Frame]][Frame]   
-[![Button Pump]][Pump]   
-[![Button Head]][Head]
-
-<br>
-
-## Software
-
-<br>
-
-[![Button Firmware]][Firmware]   
-[![Button GCode]][GCode]
 
 <br>
 <br>
@@ -176,7 +161,7 @@ long prints without failing due to design based problems.
 
 <!---------------------------------[ Buttons ]--------------------------------->
 
-[Button Hackaday]: https://img.shields.io/badge/Hackaday-1A1A1A?style=for-the-badge&logoColor=white&logo=Hackaday
+[Button Hackaday]: https://img.shields.io/badge/Hackaday-161b22?style=for-the-badge&logoColor=white&logo=Hackaday
 [Button Videos]: https://img.shields.io/badge/Videos-DA1F26?style=for-the-badge&logoColor=white&logo=YouTube
 
 [Button Firmware]: https://img.shields.io/badge/Firmware-319795?style=for-the-badge
