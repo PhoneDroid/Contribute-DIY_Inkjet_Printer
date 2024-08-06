@@ -19,13 +19,13 @@
 
 ## Frontplate
 
-A SLA 3D printed cover with space for 8 screws that clamp  
-the two plate halves together, as well as holes on the right  
+SLA 3D printed cover with space for 8 screws that clamp  
+the two plate halves together, as well as holes ( right side )  
 for mounting the pump assembly to the frame.
 
 <br>
 
-<img src = '../../Resources/Part Diagrams/Piezo Pump/Frontplate.svg' />
+<img src = './Assets/Frontplate.svg' />
 
 <br>
 <br>
@@ -33,32 +33,27 @@ for mounting the pump assembly to the frame.
 
 ## Backplate
 
-A SLA 3D printed two chambered plate with 8 untapped  
-holes and 2 terminals for connecting the in and output.
+SLA 3D printed two chambered plate with 8 untapped  
+holes and 2 terminals for connecting the in- & output.
 
 <br>
 
-<img src = '../../Resources/Part Diagrams/Piezo Pump/Backplate.svg' />
+<img src = './Assets/Backplate.svg' />
 
 <br>
 <br>
 <br>
 
+## Other Parts
 
-## Other
-
-- 8x M3x20 screws
-
-- 8x M3 nuts
-
-- 2x O - ring 21x25x2mm
-
-- 2x 27mm piezo disc
-
-- 2x check valve
-
-- petrol filter
-
-- 6mm silicone tubing
+| Quantity | Part | Size
+|:--------:|:----:|:----
+| 8 | Screws | ⌀ M3  ⇕ 20 mm
+| 8 | Nuts | ⌀ M3
+| 2 | O-Ring | ⌀ 21 mm - 25 mm  ⇕ 2 mm
+| 2 | Piezo Disc | ⌀ 27 mm
+| 2 | Check Valve | ⌀ 6 mm
+| 1 | Petrol Filter | ⌀ 6 mm
+| 1 | Silicone Tubing | ⌀ 6 mm
 
 <br>
