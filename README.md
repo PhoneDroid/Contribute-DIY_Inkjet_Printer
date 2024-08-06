@@ -1,7 +1,7 @@
 
-<br>
+<br/>
 
-<div align = center>
+<div align = center >
 
 <pre>
 
@@ -25,13 +25,7 @@
 
 [<img width = 100% src = './Resources/Cover.webp' >][#]
 
-<br>
-
-[<img height = 300 width = 25% align = left  src = './Resources/Empty.svg' >][#]
-[<img height = 300 width = 25% align = right src = './Resources/Empty.svg' >][#]
-
-<br>
-<br>
+<br/>
 
 </div>
 
